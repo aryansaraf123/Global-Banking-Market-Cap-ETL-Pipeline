@@ -1,13 +1,6 @@
 # Top 10 largest Banks
 This project demonstrates an ETL (Extract, Transform, Load) process on the top 10 largest banks by market capitalization.
 
-## Table of Contents
-- [Overview](https://github.com/aryansaraf123/Top-10-largest-Banks/edit/main/README.md#overview)
-- [Repository Contents](https://github.com/aryansaraf123/Top-10-largest-Banks/edit/main/README.md#repository-contents)
-- [Technologies Used](https://github.com/aryansaraf123/Top-10-largest-Banks/edit/main/README.md#technologies-used)
-- [Project Highlights](https://github.com/aryansaraf123/Top-10-largest-Banks/edit/main/README.md#project-highlights)
-- [Data Insights](https://github.com/aryansaraf123/Top-10-largest-Banks/edit/main/README.md#data-insights)
-
 ## Overview
 This project scrapes data from a Wikipedia page listing the largest banks by market cap, transforms the data into multiple currencies, and loads it into both CSV and SQLite database formats. The goal is to provide a clear and efficient ETL pipeline example.
 
