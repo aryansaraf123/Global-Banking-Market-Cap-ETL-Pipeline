@@ -1,0 +1,10 @@
+2024-08-07-13:32:17: ETL Job has started 
+2024-08-07-13:32:17: Phase 1 Extraction has started 
+2024-08-07-13:32:22: Phase 1 Extraction has ended 
+2024-08-07-13:32:22: Phase 2 Transformation has started 
+2024-08-07-13:32:22: Phase 2 Transformation has ended 
+2024-08-07-13:32:22: Phase 3 Loading has started 
+2024-08-07-13:32:22: Phase 3 Loading has Ended 
+2024-08-07-13:32:22: Starting the running query 
+2024-08-07-13:32:22: Ending the running query 
+2024-08-07-13:32:22: ETL Job has ended 
