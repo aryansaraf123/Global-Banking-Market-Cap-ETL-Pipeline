@@ -6,8 +6,8 @@ This project scrapes data from a Wikipedia page listing the largest banks by mar
 
 ## Repository Contents
 - [banks_project.ipynb](banks_project.ipynb) : Jupyter Notebook with the complete ETL code.
-- [Largest_banks_data.csv](Largest_banks_data.csv) : Contains the market cap of the top 10 banks in USD, GBP, EUR, and INR.
-- [Banks.db](Banks.db) : SQLite database with the transformed data.
+- [largest_banks_data.csv](largest_banks_data.csv) : Contains the market cap of the top 10 banks in USD, GBP, EUR, and INR.
+- [banks.db](banks.db) : SQLite database with the transformed data.
 - [code_log.txt](code_log.txt) : Log file detailing the timestamps for each phase of the ETL process.
 
 To best understand the project, please go through the files in the above order.
@@ -28,4 +28,4 @@ To best understand the project, please go through the files in the above order.
 - Loading: Data saved to both CSV and SQLite database formats.
 
 ## Data Insights
-Explore the [Largest_banks_data.csv](Largest_banks_data.csv) and [Banks.db](Banks.db) to see the market cap data of the top 10 banks in various currencies. The [code_log.txt](code_log.txt) provides detailed logs of each phase of the ETL process, including timestamps.
+Explore the [largest_banks_data.csv](Largest_banks_data.csv) and [banks.db](Banks.db) to see the market cap data of the top 10 banks in various currencies. The [code_log.txt](code_log.txt) provides detailed logs of each phase of the ETL process, including timestamps.
