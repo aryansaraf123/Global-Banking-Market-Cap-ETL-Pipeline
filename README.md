@@ -28,4 +28,4 @@ To best understand the project, please go through the files in the above order.
 - Loading: Data saved to both CSV and SQLite database formats.
 
 ## Data Insights
-Explore the [largest_banks_data.csv](Largest_banks_data.csv) and [banks.db](Banks.db) to see the market cap data of the top 10 banks in various currencies. The [code_log.txt](code_log.txt) provides detailed logs of each phase of the ETL process, including timestamps.
+Explore the [largest_banks_data.csv](largest_banks_data.csv) and [banks.db](banks.db) to see the market cap data of the top 10 banks in various currencies. The [code_log.txt](code_log.txt) provides detailed logs of each phase of the ETL process, including timestamps.
