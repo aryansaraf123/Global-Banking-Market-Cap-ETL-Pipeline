@@ -1,4 +1,4 @@
-# Top 10 largest Banks
+# Global Banking Market Cap ETL Pipeline
 This project demonstrates an ETL (Extract, Transform, Load) process on the top 10 largest banks by market capitalization.
 
 ## Overview
