@@ -2,7 +2,7 @@
 This project demonstrates an ETL (Extract, Transform, Load) process on the top 10 largest banks by market capitalization.
 
 ## Overview
-This project scrapes data from a Wikipedia page listing the largest banks by market cap, transforms the data into multiple currencies, and loads it into both CSV and SQLite database formats. The goal is to provide a clear and efficient ETL pipeline example.
+This project scrapes data from a Wikipedia page listing the largest banks by market cap, transforms the data into multiple currencies, and loads it into both CSV and SQLite database formatss, queried with SQL, and logged progress with timestamps. The goal is to provide a clear and efficient ETL pipeline example.
 
 ## Repository Contents
 - [banks_project.ipynb](banks_project.ipynb) : Jupyter Notebook with the complete ETL code.
